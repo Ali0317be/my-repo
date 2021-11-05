@@ -31,7 +31,8 @@
         android:layout_height="wrap_content"
         android:text="Header"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        tools:textColor="#9ED1E8" />
 
     <Button
         android:id="@+id/button3"
